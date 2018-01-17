@@ -6,7 +6,7 @@
 		git clone https://github.com/mehulsuresh/Transfer-Learning
 		cd Transfer-Learning
 		
-3. Download and prep the dataset by downloading the image and storing the based on their classes. eg.
+3. Download and prep the dataset by downloading the image dataset and storing them based on their classes. eg.
 	
 		ls tf_files/car_photos
 
